@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Itsdynamo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in creating asssets for beginners using Obsidian and Remarkable 2.
+- 🌱 I’m currently learning about AI and its potential within healthcare and productivity spaces. 
+- 📫 You can reach me at my gumroad page where I host all of my templates 90% of them are completely FREE https://itsdynamo.gumroad.com/
 
 <!---
 Itsdynamo/Itsdynamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -10,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 # Daily Note Template for Obsidian
 
-![Template Preview](preview.png)
+
 
 ## Overview
 Supercharge Your Productivity and Personal Growth! Plan. Reflect. Grow. 🌱
